@@ -603,14 +603,14 @@
       "uuid": "b486a04d-57ee-4db5-b556-d399b429b048"
     },
     {
-      "start_time": 1195,
-      "end_time": 1195,
+      "start_time": 1176,
+      "end_time": 1177,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Zachary,"
+              "text": "Zachary?"
             }
           ]
         }
