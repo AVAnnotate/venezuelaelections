@@ -213,8 +213,8 @@
       "uuid": "422604a6-13ed-44c8-9505-dc85434709d2"
     },
     {
-      "start_time": 313,
-      "end_time": 481,
+      "start_time": 295,
+      "end_time": 463,
       "annotation": [
         {
           "type": "paragraph",
@@ -235,12 +235,12 @@
           "tag": "Political Violence"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Rule of Law"
-        },
-        {
           "category": "Rights, Membership and Public Participation",
           "tag": "Human Rights"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Rule of Law"
         }
       ],
       "uuid": "faa3ecdd-c477-4315-85bc-2ad2a08f65ae"
