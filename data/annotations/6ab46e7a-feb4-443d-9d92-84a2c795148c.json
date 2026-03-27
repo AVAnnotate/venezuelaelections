@@ -1066,6 +1066,22 @@
       ],
       "tags": [],
       "uuid": "dba5859b-21a7-46b6-8806-586a21598a58"
+    },
+    {
+      "start_time": 104,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, so Heather, I think that’s the obvious place to start. You and I live through what you write about in this book. So it’s contemporary history as well as traditional history. but why did you return in, the 2020s to 1984 in New York?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0b4d9279-8c91-4752-b94b-583fde4c3949"
     }
   ],
   "set": "Default",
