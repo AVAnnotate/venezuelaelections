@@ -495,6 +495,26 @@
         {
           "category": "Speakers",
           "tag": "Michael Dennis"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Economic Power"
         }
       ],
       "uuid": "e7cddd82-863a-4f57-a672-c49298e6edf3"
