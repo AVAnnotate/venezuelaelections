@@ -354,14 +354,14 @@
       "uuid": "3e352b54-8092-4b01-9f52-934d7e9bc394"
     },
     {
-      "start_time": 663,
-      "end_time": 663,
+      "start_time": 644,
+      "end_time": 645,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Sure. Zachary,"
+              "text": "Sure. Zachary."
             }
           ]
         }
