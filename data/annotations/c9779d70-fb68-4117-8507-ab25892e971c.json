@@ -292,6 +292,18 @@
         {
           "tag": "Zachary Suri",
           "category": "Speakers"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
         }
       ],
       "uuid": "9ecf8091-6297-4436-a37e-d09d7a1df6fa"
