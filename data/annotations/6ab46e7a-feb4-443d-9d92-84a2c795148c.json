@@ -553,14 +553,14 @@
       "uuid": "09c49e8f-cb9e-4ccc-8324-7eaeeb2779a2"
     },
     {
-      "start_time": 1147,
-      "end_time": 1148,
+      "start_time": 1129,
+      "end_time": 1130,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Gosh,"
+              "text": "Gosh."
             }
           ]
         }
