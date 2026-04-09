@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "4c4b33ae-42a0-4659-ab72-8ad5ec530d13": {
+      "label": "Episode 206: Leadership",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://podcasts.la.utexas.edu/this-is-democracy/wp-content/uploads/sites/17/2022/08/202-08-24_This-is-Democracy_Episode-206_Master.mp3",
+      "duration": 2098
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Episode 206: Leadership",
+  "created_at": "2026-04-09T15:56:17.201Z",
+  "created_by": "raymondhyser",
+  "updated_at": "2026-04-09T15:56:17.201Z",
+  "updated_by": "raymondhyser"
+}
