@@ -97,7 +97,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Peniel Joseph"
+        }
+      ],
       "uuid": "767b99b2-8955-448b-bbde-aa98f8108313"
     },
     {
