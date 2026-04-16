@@ -1,1 +1,2915 @@
-{"annotations":[],"set":"Default","event_id":"98157da6-2e25-474b-afa3-9b4ff0d7494b","source_id":"4c4b33ae-42a0-4659-ab72-8ad5ec530d13"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is democracy, a podcast about the people of the united States, a podcast about citizenship, about engaging with politics and the world around you. A podcast about educating yourself on today’s important issues and how to have a voice in what happens next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "tag": "Intro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "6c8bb842-f6a0-4dcd-800b-5054bce32dc5"
+    },
+    {
+      "start_time": 26,
+      "end_time": 51,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Welcome to our new episode of this is democracy. Today. We are talking with a great author, good friend, and really, uh, outstanding thinker about a topic that, uh, we all confront every day. What is good leadership? How do we understand what it means to be an effective leader, as well as a persuasive and ethical?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "307f72e0-9390-4f96-9ab0-5aefc26b806b"
+    },
+    {
+      "start_time": 51,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the world of social media, the world of flaming the world of difficult, difficult issues and difficult opposition to getting anything done. Uh, our guest mark up to Grove has written a number of books on presidential leadership. And his most recent book is really an. Excellent elegant study of John F. Kennedy and uses John F. Kennedy in many ways as a window into the possibilities and the limits of leadership in our world. It’s a book. Uh, I hope you all will pick up and read. It’s an eminently readable and deeply researched book. It’s called incomparable grace JFK in the presidency. Um, mark, thank you for joining us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "4b6b2dcb-077e-4efa-8ce7-a86834c76828"
+    },
+    {
+      "start_time": 92,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Always a pleasure, Jeremy. Good to hear your voice after so long."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "653873fb-3d49-4cb5-8905-f4db6413bac7"
+    },
+    {
+      "start_time": 95,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is nice to be able to have a conversation. Uh, mark is a presidential historian. He’s the author. As I said of, uh, five books on the presidency, he’s also interviewed, I believe just about every living. President, uh, except for Donald Trump. Is that correct mark?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "42511c4e-3449-4104-bfdf-2fd9d4e17cf9"
+    },
+    {
+      "start_time": 111,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That’s that’s correct. Accept the guy down to Mar A Lago."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "ae6543c0-f1df-440d-861a-d9a95288a50e"
+    },
+    {
+      "start_time": 115,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whoever that is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "64d1e212-a2b8-47fd-8ed6-d8e9dc7b79b1"
+    },
+    {
+      "start_time": 116,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whoever that is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "7399ad7e-1311-48a8-a9f8-7afb99778691"
+    },
+    {
+      "start_time": 117,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mark serves now as the president and CEO of the Lindon B Johnson foundation, I, I get to consider him a neighbor. We don’t see each other often enough. And, uh, before that, He was the director of the LBJ presidential library."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "2eaac0e2-7491-454b-bda2-1ceeee83dcaa"
+    },
+    {
+      "start_time": 132,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mark is also a presidential historian on ABC news. And, uh, earlier in his career, uh, among other things, he was a publisher of Newsweek. And if you read his newest book, you’ll find out that he had a very close relationship with Hughes side, who was the, uh, I guess the editor of time magazine. Is that correct? Mark?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Free Speech"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "9495cd78-9d83-410e-8c2e-a6df572d84c8"
+    },
+    {
+      "start_time": 149,
+      "end_time": 167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He was, you know, he was the Washington bureau chief. Jeremy, but it was such an out, it had such an outsized power. He might as well have been the editor of, of time magazine as, as John Kennedy, uh, knew as, as so many other presidents that he just had an incredibly important vantage point on the presidency."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Free Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "b479506c-c5fe-419b-8f17-50335690ba10"
+    },
+    {
+      "start_time": 167,
+      "end_time": 176,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And as a consequence, those, uh, those presidents really looked to his column in so many ways to, to, to see how they were."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Free Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "9c1e080a-7dc1-4b15-8f5a-84bd75ecbfdf"
+    },
+    {
+      "start_time": 176,
+      "end_time": 194,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, for those of, uh, you who buy and, and read Mark’s book, uh, there’s some wonderful insights from, from Hughes side, that mark mark shares as well as insights from Scotty, Restin, and many other journalists, uh, of the time before we get into our discussion with mark, we have of course, uh, Zachary’s scene sitting poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Free Speech"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "12659d3b-55dc-4b11-8a51-ede1bd5c21d0"
+    },
+    {
+      "start_time": 194,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is, uh, today’s title Zachary?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "e81bbd2e-73ef-4fa0-a0cc-a1f601a70966"
+    },
+    {
+      "start_time": 197,
+      "end_time": 198,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Never again the same."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "a354e399-b699-4b80-92df-448836e73717"
+    },
+    {
+      "start_time": 198,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let’s hear."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "c38af3a1-d3b1-4dd6-b41e-4f0db02e5cbe"
+    },
+    {
+      "start_time": 200,
+      "end_time": 224,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sometimes there are words when whispered they are meaningless, but they mean the world. When you shout them in the shadow of a wall or on a football field, under a hot sun, which obscures the moon. Sometimes there are places when you see them on a map, they seem hollow a couple of old municipal buildings and a square in the center of town."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "3fd84edf-25cd-4a9d-b255-d07de64867c2"
+    },
+    {
+      "start_time": 224,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you can see in the video recorded hazy from across the lawn, how this was once for a few moments, the center of the world. sometimes there are moments when described to you. They are meaningless. They seem so abstract. So absurd, unexplainable, a bullet flying unimagined, but you would’ve had to be there had to have seen the way she held him as he was dying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "d8fda30b-fad2-4364-9dac-7e23da3a44f0"
+    },
+    {
+      "start_time": 250,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would we give not to remember how it really was to stay in that imagined moment when we all cried at the same time to stay forever remembering the promise that was never fulfilled. The hope that was never realized words and places and moments that never really were and would never again be the."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "3478a300-654e-4d6a-a74d-424d13f57e18"
+    },
+    {
+      "start_time": 272,
+      "end_time": 274,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I love it. Zachary, what is your poem about?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "c21b6df8-3f27-4a6e-8fe0-fc68295b7216"
+    },
+    {
+      "start_time": 274,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My poem is about the, uh, huge mark that, uh, John F. Kennedy, uh, his presidency, his assassination left on the American psyche, but also the ways in which he has, he and his family have sort of become mythologized. And then we, we remember them in hindsight. Perhaps differently than, than we experienced them as, as a country."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1f8983ee-b7f0-4f9a-a1fe-2811a688ce91"
+    },
+    {
+      "start_time": 294,
+      "end_time": 308,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I think that’s such a wonderful, uh, opening mark to, to discussing your, your fantastic book. Why did you write this book on John Kennedy? So many other books have been written. What did you have to say that others haven’t said."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "51312b69-c0f2-4989-9352-84b3473b3b6a"
+    },
+    {
+      "start_time": 308,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, first of all, Zachary, what a magnificent poem and, and, uh, I just we’ll come back to this. I’m sure Jeremy, but that, that just that phrase, a bullet flying unimagined is just, yes, an incredible way of depicting the. The unimaginable assassination of John F. Kennedy when it occurred in 1963. But to answer your very good question, Jeremy. Yeah, there’s an old adage. Write the book you wanna read."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "9954b754-622f-4847-a873-4d2be5efb7f3"
+    },
+    {
+      "start_time": 334,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I had read a lot of books about John F. Kennedy, some voluminous and very comprehensive, but not the book that about Kennedy that I really wanted to read. And he is such a fascinating and enigmatic subject. And led us through such consequential turbulent, uh, times triumphant in many ways, tragic in others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "11c41792-ace1-4326-a7ff-e4d91d237333"
+    },
+    {
+      "start_time": 356,
+      "end_time": 383,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I wanted to give the reader a sense of that sort of this, this cinematic glimpse of Kennedy and all that he’s dealing with on any given day, internationally and domestically. I wanted to the, the readers to F feel those vicissitudes, you know, and I, I hoped I achieved it with a brisk. But dramatic take on the two years and 10 months that John F. Kennedy spent in the white house."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "31d51ac0-9eb7-4d53-a8f3-212f88c59ff7"
+    },
+    {
+      "start_time": 383,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, you absolutely succeeded at least for this reader in, in both of what, both of the things you just mentioned. Uh, it’s, it’s a bris greed, as you said, but it’s also a moving, moving cinematic. Uh, but, but more than cinematic rule and thoughtful, uh, account of his life, you, you open with, uh, one of the low points of his presidency, which might surprise a lot of readers, the Vienna."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy & Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "27656508-d421-48b6-bede-9783b77d540c"
+    },
+    {
+      "start_time": 407,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of 1961, when in a certain way, uh, the leader of the Soviet union embarrasses, this young president, why did you start."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy & Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "3b9b8003-cb61-4357-b33e-c5f89def367e"
+    },
+    {
+      "start_time": 414,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, because you mentioned Scotty Restin, uh, who was the renowned columnist on the presidency for the New York times after this two day summit that happened in early June of 1961 Kennedy, as you said, has just been ravaged by the."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy & Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "aec7ab9f-8fd6-406b-a743-d23f71b7a1f9"
+    },
+    {
+      "start_time": 431,
+      "end_time": 459,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By Nick Nikita, Cruz Jeff, through these two grueling days, whereas where cruise Jeff is just constantly nipping at his heels and getting the better of Kennedy and Kennedy knows he’s been bested. Uh, he talked about the, the great chess match of leadership, and he knew he had was outmatched by cruise Jeff during those two vital days and knows that cruise Jeff leaves that summit emboldened thinking."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "f7b827c4-3301-4ba2-a367-afa1360d577b"
+    },
+    {
+      "start_time": 459,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kennedy was incr Jeff’s words, too intelligent and too weak. And by too intelligent, he means he’s book smart, but he’s not street smart. I can exploit this guy, cruise. Jeff thinks coming out of this and Kennedy knows this. And so he goes back to the, uh, American embassy in, in Vienna and talks off the record to Scotty Restin."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy & Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "cdb474f2-0784-4aa7-8fc0-2684966a021a"
+    },
+    {
+      "start_time": 479,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he admits to Restin that he has been savaged by cruise Jeff. And he realizes until cruise Jeff doesn’t respect him that there could be a. That emerges out of, uh, cruise Jeff’s deep confidence that he can out-maneuver Kennedy. So that becomes this crucible in, in Kennedy’s leadership. He knows he needs to show Chris Jeff, that he is a strong leader or Cru Jeff will move to exploit him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy & Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "aa5d3b68-b500-40e3-9942-9f960df5f61f"
+    },
+    {
+      "start_time": 509,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, and in your vivid description of this, and it really is vivid, uh, and, and you bring out, uh, Kennedy’s words, you bring out his emotions. It, it does resonate with, I think the central challenge of contemporary leadership, what president Biden must live with every day, which is the sense that you’re in the most powerful office in the world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy & Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "ac6e531e-ce71-4c28-91c3-77509916ad87"
+    },
+    {
+      "start_time": 530,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But you. Almost UNES opposition from external actors of Vladimir Putin or Nikita CTRA internal actors in Kennedy’s case, the military that doesn’t trust him. You’re, you’re, you’re really detailed in your description. Mark also in former president Eisenhower and others who, who really don’t think this man is up to the job, this man who barely wins the presidency in the closest election, as you’re say, in the 20th century, how does Kennedy deal with that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy & Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "International Organizations"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "5d0f3fb1-8324-464f-a28e-01d266546709"
+    },
+    {
+      "start_time": 559,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How does he, how does he. Move forward in, in this almost unwinnable situation,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Voting & Elections"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "aabe5370-6df5-42f8-8c46-c7f5296363a9"
+    },
+    {
+      "start_time": 563,
+      "end_time": 585,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "you know, you’ve written about this, uh, Jeremy, you talked about the challenges of, of modern, uh, presidential leadership in the impossible presidency. It’s, it’s a really difficult task Kennedy, as you said, comes into the, the presidency with this very narrow victory, the narrows to the 20th century, 118,000 votes through the difference between a president, John F."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "b822ef39-7ee3-4076-8178-21ac918d671c"
+    },
+    {
+      "start_time": 585,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Kennedy or a president Nixon in 1961. And yet he moves very. To get the, the American people rallying around him, partly through his iconic inauguration speech, which is so indelible, uh, in which he says, ask not what your country can do for you, ask what you can do for your country, which instantly becomes this eternal expression of the American ideal thinking about something greater than ourselves."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Voting & Elections"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "a2691bcd-52fa-439d-b4b8-361e6dde3d6e"
+    },
+    {
+      "start_time": 611,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But while he had. Had the country rallied around him. Uh, he quickly stumbled with the bay of pigs and the, the failed incursion of Cuba. Uh, as we tried to, to oust Fidel Castro from, from leadership and yet, and this really says something Jeremy, and yet in that desperate hour in his presidency. So soon into a very auspicious run in the white house, he sees his app approval rating at 83%."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "1f0ff960-d5a1-4a7f-b316-9729a8005623"
+    },
+    {
+      "start_time": 639,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is after the bay of pigs, only 5% of the American public disapprove of his job performance. And it shows an American far more unified than today. I mean, how different is that than today? When so many people are rooting against a Joe Biden as our president, but we also realized that it was so I. To have a strong leader at a time when the Soviet union was vying for hearts and minds across the world and trying to dominate much of the world landscape."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "dfeffc75-fd76-4012-b69d-8602d6c9ace9"
+    },
+    {
+      "start_time": 669,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That was the central crisis of the age in that moment, Jeremy. And then, then at, uh, that desperate moment in his presidency, I think. Kennedy shows to some degree, his character he’s, he’s humble. He takes accountability. As he says, in a press conference, success has many fathers, but failure is an orphan. But at the end of the day, the buck stops with me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy & Peacebuilding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "41382295-34d5-4281-b6d3-4079ed690bbe"
+    },
+    {
+      "start_time": 692,
+      "end_time": 712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "As Truman might have said, uh, he took responsibility and vowed to the American people to do better. And he does. He learns from that very important lessons that help him. To circumvent the challenges in his, in his most desperate hour in the presidency, which would come the year after with the Cuban missile crisis."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "d4b55ad0-0ea9-49f8-93f1-e2f227da93f2"
+    },
+    {
+      "start_time": 712,
+      "end_time": 730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why do you think Kennedy was able to become such a unifying figure? I, I mean, in, in the years following one of the closest elections in American history, right? Uh, probably nearly every American who was eligible to vote in 1960, remembers voting for John F. Kennedy. How is it possible that he could have become such a unifying."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Voting & Elections"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "b8cbde28-9a2b-4100-a740-3c8ae8a8cea4"
+    },
+    {
+      "start_time": 730,
+      "end_time": 732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "it seems almost unimaginable today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "1515cd49-2449-4826-8b99-1546fea7aafe"
+    },
+    {
+      "start_time": 732,
+      "end_time": 751,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it does. Zach. I’ve always appreciated the, like, like your father as an author. I appreciate the power of words and he, and I do public speaking a lot and, and, introduce, uh, how words are enormously powerful in conveying ideas, uh, and, and inspiring people and getting."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "42022b60-43b1-44e1-bc72-e8e77499a2e8"
+    },
+    {
+      "start_time": 751,
+      "end_time": 775,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "People to, to coalesce. There’s a wonderful quote from Clemen Atley that I relate in the book and Atley was the successor to Winston Churchill. And he’s talking about, um, Churchill’s rhetorical splendor during the second world war when it was so vitally important. And he says, uh, words at great moments can be deed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "aafc3990-9884-4ec5-8803-a1d60287e411"
+    },
+    {
+      "start_time": 775,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And Kennedy shows us this. He doesn’t accomplish a great deal in the presence. He particularly compared to his accessor, to Lydon Johnson, who was a legislative genius and, and, uh, promulgated the great society, which fundamentally changed America. But those ideas that Kennedy put forth. So artfully, so elegantly in the speeches he gave, made us believe in ourselves as, as a nation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "e1b0db89-286e-4ec9-a203-f7d601128618"
+    },
+    {
+      "start_time": 799,
+      "end_time": 828,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think made, made. Citizens of the world, believe in the United States as a leader, as, as a beacon of freedom. And there, you know, he goes on this rhetorical hitting streak at a certain point in 1963, the last year of his life that is, you know, tantamount to, you know, Ted Williams in 1941. , it’s remarkable all these speeches back to back to back that in different areas that fundamentally change who we are in, in many respects."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "755e3fb9-7594-414d-908e-9d6677cf9ba1"
+    },
+    {
+      "start_time": 828,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I I’m so glad you brought. Marks one of the lasting lessons for me from your book and, and the quote from athletes, which is on page 2 26, I, I had not actually seen before and I’m gonna use it now and cites you all. So obviously, uh, how does one do that? I wanna dig a little deeper and you have so many nuggets in your book about this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "40abfe78-8e08-4b58-ac53-3a224300aee0"
+    },
+    {
+      "start_time": 848,
+      "end_time": 865,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, because every president of course, uh, tries to be eloquent. Kennedy was in some sense, trying to be Franklin Roosevelt and, and every president since Kennedy tries. Mimic Kennedy or mimic Reagan. Why is it that some presidents are able to do this and others aren’t. And why was Kennedy able to do this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "9a0dac21-e6fd-4bc8-8c2b-7ffbc9cc7a17"
+    },
+    {
+      "start_time": 865,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And even his successor who interestingly comes on stage late in your book, right? Lydon Johnson. Why was he unable to do this?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Free Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "095b68a4-c193-4467-be9e-34a3abac4ee4"
+    },
+    {
+      "start_time": 872,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, it’s interesting cuz cuz um, At one point, there’s an interview that that Kennedy does with Ben Bradley, who was then, um, the covered the presidency for Newsweek. And they were, they were good friends and, and before a dinner party, uh, Bradley starts interviewing John F. Kennedy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "45c5488e-d39e-4a3e-9adf-624ef2d36abe"
+    },
+    {
+      "start_time": 890,
+      "end_time": 914,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And you can hear this interview at the JFK library, but Kennedy calls himself the antithesis of a politic. And by that, he means he’s not the kind of baby kissing back slapping name, knowing politician that his maternal grandfather, honey Fitz, the very colorful mayor of Boston was. And yet at the same time, Kennedy concedes that he fits the times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "f656be46-4180-486e-aba5-212499892f19"
+    },
+    {
+      "start_time": 914,
+      "end_time": 942,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think what he was suggesting is that he understood that he could master the medium of television, great politicians, whether for good, or for ill master the mediums of their age. Uh, Jefferson did it with partisan newspapers. Uh, Lincoln did it with the written word. Um, he was a great, he, he, he was a, a wonderful writer and, and had these memorable speeches, but very few people heard those speeches."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Free Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "2ee16186-e531-4d49-901d-9e13efca38b6"
+    },
+    {
+      "start_time": 942,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You read those speeches in newspapers. He understood the importance of the fledgling art of photography, which he used in his successful presidential campaign in 1860. Roosevelt, you just mentioned mastered radio, which was the medium of his time. Talking to people directly. Kennedy did that with television."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "019024c9-d491-4d67-94b0-50f71a26dbbc"
+    },
+    {
+      "start_time": 960,
+      "end_time": 991,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was the television age was coming into prominence when Kennedy came into office. And, but for television, it’s likely that Kennedy wouldn’t have been chosen as our. 35th present. It’s the debates. The first presidential debates in history were held on television between Kennedy and Nixon. And, um, many of us are, are as presidential nerds can sum of those images of a very pasty faced, uh, five o’clock shadowed Richard Nixon versus."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "8784a979-6db1-451c-833f-c3f8cf8c4833"
+    },
+    {
+      "start_time": 991,
+      "end_time": 1015,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Glowing a handsome leading man type in John F. Kennedy. And that image really mattered. So good politicians understand the importance of the mediums of their time and the, they understand the importance of image Kennedy got both of those things very vividly, just in terms of. The speeches he gave Jeremy, let me just give one example. If I may."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "617449bf-5d99-451e-956a-65d49386c437"
+    },
+    {
+      "start_time": 1015,
+      "end_time": 1016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "b9206bc2-e1ff-4682-847f-a670303e834b"
+    },
+    {
+      "start_time": 1016,
+      "end_time": 1036,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of why Kennedy was so effective and it comes in 1963, Kennedy had reacted largely to the crisis of civil rights. He wasn’t proactive at all. He was trying to infect. To tamp down the civil rights movement because it exposed not only the nation, but to the world, to the worst of American apartheid."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "4583fe05-c500-4367-9187-fb2d7be2b8db"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "At a time when, as I mentioned, we were trying to compete for hearts and minds across the world with the Soviet union that made us look bad. Like we weren’t living up to our ideals as a nation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "dc4a9ffa-807d-4b9d-aaca-71f6e01a503b"
+    },
+    {
+      "start_time": 1046,
+      "end_time": 1048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You’d call him disengaged at one point"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "2136d86f-dc69-4a3a-8453-48ca966133fe"
+    },
+    {
+      "start_time": 1048,
+      "end_time": 1054,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Disengage. Absolutely. Jeremy and you and I have talked about this, how Kennedy was so reactive."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "bc179880-f954-49c7-a82a-10ae28d9b179"
+    },
+    {
+      "start_time": 1054,
+      "end_time": 1085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But eventually he sees the, the crisis brewing in Birmingham where Martin Luther king had, had brought his campaign, the most segregated city in America. Uh, and he finally realizes he’s gotta go on TV to, to. Um, to ensure that George Wallace, who is standing in the doorway of the university of Alabama, trying to prevent its integration does not get the headline that night does not get, get the, the lead story in the six o’clock on the six o’clock news."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "71a9235f-373c-490e-8c5f-54ed89d295c6"
+    },
+    {
+      "start_time": 1085,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So. He is encouraged by his brother, Bobby, to go and speak to the issue of civil rights on television. Ted Sorenson is speech writer tells Kennedy. He doesn’t have enough time in eight hours to write a presidential prime time speech. But Bobby. Uh, encourages his brother to go on any way and to speak from his heart."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "41dd13f5-93e3-4f98-baf6-7d8483817c98"
+    },
+    {
+      "start_time": 1107,
+      "end_time": 1133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So this very, uh, iconic speech about civil rights is largely extemporaneous from Kennedy who had the courage to go on television national television and speak his mind about the issue of civil rights and in, so he calls it a moral. Issue, elevating the cause of civil rights to a moral issue for the first time in, in our history."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "de93ef5f-3015-4352-9399-f44ac4dcc5e2"
+    },
+    {
+      "start_time": 1133,
+      "end_time": 1136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And it is a turning point in the struggle for civil rights."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "dd9f8511-3bd7-42ca-9df4-089972c0a67c"
+    },
+    {
+      "start_time": 1136,
+      "end_time": 1146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And as you show, uh, civil rights leaders, uh, who had been, let’s say Luke warm on Kennedy, like Martin Luther king, Roy Wilkins, and others, they themselves see as a turning point at that time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "f9c62667-05fd-4f84-ad86-bcc475227736"
+    },
+    {
+      "start_time": 1146,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, as Martin Luther King says, uh, of Kennedy after the speech that white boy just hit it out of the park."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "daced1e0-dbc2-4199-b181-f93ecf61d08e"
+    },
+    {
+      "start_time": 1155,
+      "end_time": 1179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I wanted to point out also mark that one of the, one of the many things I learned from your book, uh, is how effective Kennedy’s press conferences were as well, which I think is another version of what you’re talking about now, his ability. Uh, yes, to use the words that Sorenson and other speech writers, Richard Goodwin had put together for him, but his ability to own the words and often to, uh, exte extemporize off the cuff and connect with an audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Free Speech"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "6099b1b4-8b37-44a0-b240-0c816bd02601"
+    },
+    {
+      "start_time": 1179,
+      "end_time": 1199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, you say it’s extraordinary. This, this is, uh, around paid 60 in the book that, uh, about 18 million. Uh, on average, saw his press conferences. 90% of Americans, 90% of Americans watched at least one of his first three, according to a 1961 poll that that’s extraordinary. That’s the Twitter of its time isn’t it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Free Speech"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "c70db815-ac0b-436f-ad59-380d97a83051"
+    },
+    {
+      "start_time": 1199,
+      "end_time": 1222,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That’s exactly right. And, and I think the American people were able to see Kennedy in his element going, you know, toe to toe with some of these wonderful journalists. He gen Kennedy had been a journalist him. At the close of second world war, when he left the military, he went and worked for Hearst newspapers in Europe, covering the war, and he had great respect for journalists."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "9182f8e8-d49b-4053-85dc-c03f3d927d2b"
+    },
+    {
+      "start_time": 1222,
+      "end_time": 1245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, I, that didnmedan that he always agreed with what they wrote about him. Certainly took exception to a lot of what they, they wrote, but he was so beguiling and I think the American people could see, uh, his facility with, uh, with, with language. Uh, with the English language, uh, his, uh, extensive knowledge of the issues."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "a71de361-be27-4785-9ff4-b0cb410ab37e"
+    },
+    {
+      "start_time": 1245,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And frankly, he was this, this was the must see TV of its time. In many ways, we were just so beguiled, the press included with this young elegant auspicious president. And it’s interesting, five days after is inauguration. I believe a third. Of all Americans tuned into that first press conference, uh, because we were so entranced by him and among other things, Jeremy, he had to tell the American people to stop sending letters and telegrams."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "0f4044da-3904-4ff3-9dee-a2a7ca142632"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "d1adbef1-b048-45a7-a67d-6792a1e4a4f6"
+    },
+    {
+      "start_time": 1275,
+      "end_time": 1279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because the west wing was becoming overwhelmed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "37f5a610-5f95-4e68-8bad-9dd9b85090df"
+    },
+    {
+      "start_time": 1279,
+      "end_time": 1297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think one of the, the biggest concerns that, that a lot of young people like myself have is is that maybe the skills today that are required to run for a political office to win the presidency. Uh, to, to campaign so effectively and win so many people over are not the same ones, uh, that, that are best adapted for, for."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "6b5fa9fe-be31-4362-81fc-dd6af76fe61d"
+    },
+    {
+      "start_time": 1297,
+      "end_time": 1312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, how did, how did Kennedy’s skills as a communicator, uh, translate or, uh, connect to his skills in, in, in government and as a legislator? Not, not as a legislator, but as, as someone with a legislative agenda."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "405ba3e0-393a-4dc2-94d0-2ff7d6f14c6a"
+    },
+    {
+      "start_time": 1312,
+      "end_time": 1319,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think he was able to convey those ideas very, uh, effectively and successfully to the American people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "4cea903f-2e75-4bfb-89b9-f6eef59fa67b"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And to a large extent, the world, when, when Kennedy stands in front of the Berlin wall and says, ish bin, I Berliner, I am a Berliner because I’m a citizen of freedom. He hence a, a citizen of Berlin, you know, that makes a, a, a marked impression. But I, I think, um, You’re right. Zachary. Those are two fundamentally different skills."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "990534c2-3198-463b-baa5-12569efc7cbb"
+    },
+    {
+      "start_time": 1343,
+      "end_time": 1369,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the one hand, you have somebody who, uh, needs to convey ideas to the American people, to the, to the press. And on the other hand, somebody who has to work behind the scenes to get his agenda, uh, done. Your dad mentioned, uh, LBJ earlier and why LBJ was not able to, um, effectively communicate as JFK did. I think, and I just want to add to that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "c18675b5-ba74-4f98-825a-e88756656ef5"
+    },
+    {
+      "start_time": 1369,
+      "end_time": 1395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, Kennedy, we, we have this word as though it’s a brand new concept in, uh, 21st century America authentic. Um, there, we had other words that were just like that sincere or, or genuine, but, but Kennedy was authentic. He didn’t pretend to be anything. He wasn’t. Um, he knew he was a, a child of, of great wealth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "6404fd34-ac94-4627-8615-c159bd96a283"
+    },
+    {
+      "start_time": 1395,
+      "end_time": 1415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, he gave a press conference, uh, where it was expected that he would be running for president. He, he whipped out of his pocket, a, an imaginary telegram from his father and it read, uh, dear Jack, uh, don’t buy any more votes than necessary. I’ll be damned if I’m gonna pay for a landslide."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "d0983501-837e-4087-a980-46352f63eb67"
+    },
+    {
+      "start_time": 1415,
+      "end_time": 1440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "so he didn’t contrive a personality that he thought would fit the American people. He was very much himself. Lyndon Johnson. On the other hand, while he was incredibly effective behind the scenes, perhaps no one was more effective. Hi than him. The 20 20th century contrived this. You know, ostensibly presidential personality, that simply was not authentic."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "75727683-0617-4d68-9511-b708fd1c4efd"
+    },
+    {
+      "start_time": 1440,
+      "end_time": 1460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was disingenuous. And it really sort of in effect tamped down the Lydon Johnson that was so powerful behind the scenes. So I think that was part of Kennedy’s appeal. He was, he was really the, the genuine article. He was the real deal. Uh, and part of that was his authenticism"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "f9ff2a07-4621-4400-9f79-220604e8b47d"
+    },
+    {
+      "start_time": 1460,
+      "end_time": 1470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mark it’s so well said. And, and I think your book lives up to its title. I mean, you, your, your story is a story of policy. Of course, it’s a story of, uh, of an individual."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1573e6d6-2ce1-4171-b92c-5a8a048c80d8"
+    },
+    {
+      "start_time": 1470,
+      "end_time": 1483,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s a biography, it’s an analysis of the presidency, but it is really a story of how Kennedy, uh, uses his grace to lead. And of course, it’s the oldest story in the world that, that the great leaders."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "6cce1d3e-face-4b6b-b3c7-16e1f6b9b25d"
+    },
+    {
+      "start_time": 1483,
+      "end_time": 1506,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whatever that means to be a great leader, that they have grace, there’s something Franklin Roosevelt had a certain grace, uh, about him. Uh, and, and, um, I think you capture that. You describe that as well as anyone I’ve read, uh, on this. I, I wonder though, how then you think about that in light of. Many of the other things you include in the book as, as, as the honest historian you are that, that run against this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "33dee4f1-bbf4-4a4f-8385-f104663cb43e"
+    },
+    {
+      "start_time": 1506,
+      "end_time": 1526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, the test of any book is, does it capture the complexity of, of a life and yours certainly does. Um, in particular, you, you very honestly, and in, in, in great detail, talk about Kennedy’s affairs and it’s hard to have a conversation about Kennedy today without talking about that, uh, particularly the story of Mimi Beardsley"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "4929d66f-e45b-4898-b16d-e97f3931b58a"
+    },
+    {
+      "start_time": 1526,
+      "end_time": 1543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "which we only learned about, I guess, a decade or two ago, right? This 19 year old intern who I think it’s fair to say is sexually exploited by the president. Um, yet there’s the image of course, of Camelot and Kennedy and Jackie and the children. You’re also very clear that Kennedy was not the most engaged, uh, father."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "f788a143-ab89-42df-b368-ca4fc284ae24"
+    },
+    {
+      "start_time": 1543,
+      "end_time": 1556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is not a book on, and then Kennedy is not a model of, of child rearing. Right. So I’m just curious. How you think about this all lives are contradictions in a way. How, how do you think about this in relationship to the grace that you also describe?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "dbe43c6c-21f8-4ced-a630-4f4bf1a1e29b"
+    },
+    {
+      "start_time": 1556,
+      "end_time": 1567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, it’s a fair question. Jeremy. I had to wrestle with that too, as you do with any biography, uh, Kennedy stands on feet of clay at times and shows flashes of greatness at others."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "cf54dd4b-779c-4942-a6b5-b3a6d522d987"
+    },
+    {
+      "start_time": 1567,
+      "end_time": 1597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think that his great moral failing is, um, is his womanizing, that said, I’m certainly not rationalizing womanizing, but I remember talking to Gerald Ford years ago and he was talking about Washington in that age. And he said that it was, you know, it was quite common. In fact, it was the, the general rule that, uh, a, uh, a law maker on Capitol hill had had affairs illicit or otherwise, some were very."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Corruption"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "75bf235e-531e-4369-aecb-f7efb357592f"
+    },
+    {
+      "start_time": 1597,
+      "end_time": 1621,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don’t Gerald Ford certainly did not. I think he was faithful to his wife. They had a very close relationship, but most of his contemporaries, most of his peers did Kennedy was certainly no exception in the testosterone filled Kennedy household. It was real, almost a, a way of keeping score, a way of keep, you know, competing with his father and his brothers and, and to some degree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "b9b61482-7090-4a45-8af6-85b577660e47"
+    },
+    {
+      "start_time": 1621,
+      "end_time": 1649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So you, you, you can chalk it up to being part of the zeitgeist. By the same token, there is that relationship with Mimi Beardsley that you referenced very St. Lee, you just can’t get over that. He, uh, not only exploits her, he really objectifies her. He, he makes her almost this concubine and in fact, at, at one point, um, commands her to perform a sexual act on a friend and aid."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Diplomacy & Peacebuilding"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "5ae1cb45-5a7a-49bd-9b60-a388ee4fff35"
+    },
+    {
+      "start_time": 1649,
+      "end_time": 1679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, and I’m that just can’t be chalked up to the zeitgeist store. Uh, that is just a deep, deep, personal flaw. And it’s really hard to get around by the same token, you see Kennedy in leadership in, in, pivotal moments in the presidency. And as you suggested, Jeremy, he does show a certain grace, that helps us to, to circumvent the crises that, he was Laden with during the course of his presidency."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "381494fa-0d94-4794-8cd8-2c60d4f6ae59"
+    },
+    {
+      "start_time": 1679,
+      "end_time": 1695,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right and you certainly show that very well. And in a, in a really well described few chapters, I think on the Cuban missile crisis. Um, and I want readers to read the book. I don’t, I don’t want us to share all that with them. I want them to buy the book to read that I think the Cuban missile crisis, as you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "722ccf4d-b5af-4296-b569-2faf662eb004"
+    },
+    {
+      "start_time": 1695,
+      "end_time": 1719,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably the most significant cold war crisis. I I’d like us to close mark on, the natural place to close, um, the assassination and, not so much what happens. I think everyone knows the story, but more how we should think about it today is, is it really a turning point in our history? And. How do you look upon it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "a46d4e32-94c4-42d6-ba87-000be161898b"
+    },
+    {
+      "start_time": 1719,
+      "end_time": 1740,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s one of the things I think you do. That’s very new in this book. You’re, you’re looking upon that assassination now, not just, about 50 years, hence, but also, from the perspective of, what’s happened in the last decade or two to the nature of American democracy. So, so how do you look upon that moment right now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "b8ec55af-1793-4c20-9cd9-d0b5e832452f"
+    },
+    {
+      "start_time": 1740,
+      "end_time": 1766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, it’s, it’s a, it’s a great tragedy. We have, we have seen this president through almost three years of, again, this incredibly consequential time in our history and he is showing tremendous. Promise. So Kennedy is cut down. I’m gonna use Zachary’s words here by a bullet flying unimagined."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "c21083ae-c945-4d5a-b90e-be30d7858823"
+    },
+    {
+      "start_time": 1766,
+      "end_time": 1788,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When he is in his prime. He’s 46 years of age. He’s gone through perhaps the most dangerous hour of humankind. With the Cuban missile crisis and stands on the world at that point, unparallel, there is nobody who has the stature of John Fitzgerald Kennedy when he is killed in Dallas on November 22nd, 1963."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "8b31c8de-52e5-41df-bafd-ce946315fd74"
+    },
+    {
+      "start_time": 1788,
+      "end_time": 1815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think the, there are myths that spring up about. Kennedy, partly because he’s martyred Jeremy that get in the way of remembering Kennedy, perhaps as we should. We imagine what Kennedy would’ve done had he faced Vietnam or civil rights or other things. And I think my guess is there would’ve been traves that affected Kennedy that would’ve diminished, our view of him in time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1188699e-cd80-4b51-8741-fc0471e1dec2"
+    },
+    {
+      "start_time": 1815,
+      "end_time": 1829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There were. Daunting crises that he would’ve faced. Right. And we can think of Kennedy and what he would’ve done and imagine the very best of outcomes, but by no means, would, would Kennedy have necessarily been able to deliver them?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Origins of Democracy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Citizenship & Belonging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "57ff91ed-726b-453c-aef2-76a2027738d0"
+    },
+    {
+      "start_time": 1829,
+      "end_time": 1830,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "mm-hmm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "54b0eb35-6419-4a9d-82de-f1aa655f8a3f"
+    },
+    {
+      "start_time": 1830,
+      "end_time": 1840,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think in, and you were alluding to this earlier in, in so many ways, Kennedy is also a symbol of what it is to be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "a87c2d8c-5eac-41b5-8383-3d08a36ff3db"
+    },
+    {
+      "start_time": 1840,
+      "end_time": 1863,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because of the, soaring rhetoric of his, administration, including the, iconic addresses he makes at the foot of the Berlin wall and American university. And, at his inauguration, we think of him in some ways as symbolizing, what it is to be American and what American democracy means to the world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "3b06a744-4dab-4a90-8819-e656e7f007c1"
+    },
+    {
+      "start_time": 1863,
+      "end_time": 1880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think there’s a lot to that. And, our final question, mark. and it’s the one we always ask and I know it’s one you think about deeply. What should we, what should young listeners in particular take from Kennedy’s life? what, are the lessons, for leadership today?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "ae67fe90-8183-45cc-b9d3-afc71ac64c49"
+    },
+    {
+      "start_time": 1880,
+      "end_time": 1899,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I, I think we look at the um, the, the, what apparel state democracy is in right now, I know that this that’s what this podcast is ultimately about Jeremy, and we understand its fragility now more than any time in at least a generation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Voting & Elections"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "0decb6a6-f26a-4e6a-984d-754e058bf189"
+    },
+    {
+      "start_time": 1899,
+      "end_time": 1913,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But there were existential crises that democracy was going through in Kennedy’s era, as well as again, we were at the height at that time of the cold war and we saw Soviet tyranny into a large extent."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "3a9a2ddb-5500-4d60-9bea-fb9d9feaeaed"
+    },
+    {
+      "start_time": 1913,
+      "end_time": 1941,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chinese tyranny posing a threat on, on the world stage. Um, so I, I think that this is nothing new and we can get through it if we resolve to make this country as strong as possible. And the one thing I would urge urge young people in particular to do is get involved in the electoral process. Gary. I mean, you’re, uh, you’re married to an elected official, you know, how important this is?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "997f1534-ab8a-43e8-a716-f8630019356d"
+    },
+    {
+      "start_time": 1941,
+      "end_time": 1963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and I would urge them to certainly devote, but also to get to, to, volunteer at the polls, to volunteer on campaigns, to get educated on the issues. There are other things you, we can do to, to strengthen our democracy, but there’s nothing more important than voting the right people into office."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "1106d738-ee80-401e-b1e5-5405ee2e3d2a"
+    },
+    {
+      "start_time": 1963,
+      "end_time": 1981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Absolutely right. And it’s one of the central messages of, of our podcast, the importance of participatory democracy. And that means getting involved in all ways that one can, Zachary is Mark’s description of Kennedy and this discussion does, does it open, open avenues for young people you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Democratic Risks & Threats"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "8a2862b0-7c80-4bd9-a3de-c6db3057c75f"
+    },
+    {
+      "start_time": 1981,
+      "end_time": 1985,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think so. And I think what’s powerful about his analysis is that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "63a37216-d536-476e-8e25-7618f004cffd"
+    },
+    {
+      "start_time": 1985,
+      "end_time": 2003,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It it’s, it’s very much aware of, of Kennedy’s flaws. And I think we have to remember when we look back on her history, that, that it is not the story of, of a few perfect moments, right. We’ve never managed to achieve again, but of, of a number of flawed and yet, and yet very successful. Hopeful moments in our history."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "f7f5b999-d73e-47d8-a0a3-9fa4afd16c33"
+    },
+    {
+      "start_time": 2003,
+      "end_time": 2011,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And we have to be able to learn from both the, the, enormous achievements of those moments, but also also the failings"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "fbdf6a77-15bc-4c10-8f48-eac3cb75c497"
+    },
+    {
+      "start_time": 2011,
+      "end_time": 2017,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think, Mark that Zachary has given the, the perfect answer for why people should read your book. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "84e3d933-9259-4936-b6b1-b86f3d7968d9"
+    },
+    {
+      "start_time": 2017,
+      "end_time": 2024,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Zachary are you your big time, by the way, I think you should run for office, but that’s a whole separate conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "f52968b6-b19f-47ae-92a2-ca5d138a6b74"
+    },
+    {
+      "start_time": 2024,
+      "end_time": 2044,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we have that conversation quite often. And our listeners often tell me that too. mark. Thank you so much for joining us and for writing this book, I wanna remind our listeners, it’s incomparable grace by mark up Grove, and it’s a fantastic. book, it’s a, it’s a thoughtful and deep read, but also a quick read."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "6b023915-43fc-4ee5-b7ad-f2a4608290b7"
+    },
+    {
+      "start_time": 2044,
+      "end_time": 2057,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I encourage you to divide a quick read in the best sense in that it’s a, it’s a book you don’t put down and you, you begin it, in New York city and you land in Los Angeles and you’ve finished it, which is the Mark of a good book in my mind. Mark. Congratulations."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "83c3f640-024a-4583-b401-5d52c7555026"
+    },
+    {
+      "start_time": 2057,
+      "end_time": 2059,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jeremy Zachary. Thanks so much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "9ecdbb0e-f74c-42dd-a0ef-152126065430"
+    },
+    {
+      "start_time": 2059,
+      "end_time": 2061,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It’s been a delightful conversation."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Mark Updegrove"
+        }
+      ],
+      "uuid": "f689ff26-379e-4cb2-931b-5a6b16337afc"
+    },
+    {
+      "start_time": 2061,
+      "end_time": 2072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, Zachary for your poem, and thank you most of all, to our loyal listeners for joining us for this week’s episode of this is democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
+      "uuid": "32a78d1d-ece2-423f-aa4d-53f8cdfeffef"
+    },
+    {
+      "start_time": 2072,
+      "end_time": 2085,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the liberal arts its development studio. And the college of liberal arts at the university of Texas at Austin. The music in this episode was written and recorded by Harris Codini. Stay tuned for a new episode every week you can find this is democracy on apple podcasts, Spotify, and Stitcher. See you next time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Outro",
+          "category": "Framing Elements"
+        }
+      ],
+      "uuid": "a90b82ac-9e49-4988-9a68-3083c2a47453"
+    }
+  ],
+  "set": "Default",
+  "event_id": "98157da6-2e25-474b-afa3-9b4ff0d7494b",
+  "source_id": "4c4b33ae-42a0-4659-ab72-8ad5ec530d13"
+}
