@@ -733,7 +733,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Fredrik Logevall"
+        }
+      ],
       "uuid": "f67c4719-b448-4e04-a2b5-62a9d551a0e2"
     },
     {
