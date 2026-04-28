@@ -179,12 +179,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Let's hear about The Ghost of JFK. The ghost of JFK yielded its head today as I spoke with my teacher of memory. As I spoke with my teacher of memory, he told me of the fateful day when he was to see JFK on the aged steps of the Capitol."
+              "text": "Let's hear about The Ghost of JFK."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "abd174b6-a0a7-4d14-963d-7957bc482cb7"
     },
     {
