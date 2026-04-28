@@ -22,7 +22,7 @@
       "uuid": "91701120-4a86-404f-a5e6-33417c217046"
     },
     {
-      "start_time": 39,
+      "start_time": 19,
       "end_time": 62,
       "annotation": [
         {
@@ -38,6 +38,10 @@
         {
           "category": "Origins, Development and Historical Change",
           "tag": "Democratic Development"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         }
       ],
       "uuid": "92a50369-832e-4316-bc4b-2598df6e725b"
