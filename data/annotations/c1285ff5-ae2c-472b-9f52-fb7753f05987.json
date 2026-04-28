@@ -1673,7 +1673,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Mark Lawrence"
+        }
+      ],
       "uuid": "13e6544c-ebf1-474c-a62b-e8d932f51635"
     },
     {
