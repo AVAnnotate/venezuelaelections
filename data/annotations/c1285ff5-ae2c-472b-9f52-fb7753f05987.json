@@ -1,7 +1,7 @@
 {
   "annotations": [
     {
-      "start_time": 1,
+      "start_time": 19,
       "end_time": 59,
       "annotation": [
         {
@@ -17,6 +17,10 @@
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Warfare and Society"
+        },
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
         }
       ],
       "uuid": "2cf82d39-cc7d-40a5-acfa-df0a34a0eacd"
