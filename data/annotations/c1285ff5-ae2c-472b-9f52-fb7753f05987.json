@@ -1564,12 +1564,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "That there are many other opportunities for the use of Americaâs vast resources, right. That beautifully said exactly right. Um, and you, you phrased it in even more optimistic way. And I really appreciate that. I had to find some optimism, Zachary, uh, as, as we close. Uh, I know you and your friends have been talking a lot about whatâs happened in Vietnam or Afghanistan or Iraq or Afghanistan and Iraq, obviously the Vietnam."
+              "text": "That there are many other opportunities for the use of America's vast resources, right. That beautifully said exactly right. Um, and you, you phrased it in even more optimistic way. And I really appreciate that. I had to find some optimism, Zachary, uh, as, as we close. Uh, I know you and your friends have been talking a lot about what's happened in Vietnam or Afghanistan or Iraq or Afghanistan and Iraq, obviously the Vietnam."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "02ce3fe8-7fd3-47ca-92e5-2c8a2f0dcc15"
     },
     {
