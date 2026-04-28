@@ -1472,7 +1472,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Intro",
+          "category": "Framing Elements"
+        }
+      ],
       "uuid": "6f026b20-2b85-4181-ba4d-81254215550d"
     }
   ],
