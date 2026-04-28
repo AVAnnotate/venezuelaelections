@@ -1680,7 +1680,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Outro",
+          "category": "Framing Elements"
+        }
+      ],
       "uuid": "4b797c7f-2a01-4fbe-8eea-aa3b13b85df7"
     }
   ],
