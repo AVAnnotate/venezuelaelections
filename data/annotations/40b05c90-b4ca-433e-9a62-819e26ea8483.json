@@ -200,7 +200,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "On the aged steps of the Capitol, I stood on an afternoon in May and watched all the children play as we marched past to the Capitol door. As we marched past to the Capitol door, I thought of the man that day when he bled to death in a limousine and all hope went away."
+              "text": "The ghost of JFK yielded its head today as I spoke with my teacher of memory. As I spoke with my teacher of memory, he told me of the fateful day when he was to see JFK on the aged steps of the Capitol. On the aged steps of the Capitol, I stood on an afternoon in May and watched all the children play as we marched past to the Capitol door. As we marched past to the Capitol door, I thought of the man that day when he bled to death in a limousine and all hope went away."
             }
           ]
         }
@@ -209,6 +209,10 @@
         {
           "category": "Conflict, Power and International Relations",
           "tag": "Political Violence"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         }
       ],
       "uuid": "7fdd07bd-0290-4c4d-afa4-a2cff707cdea"
