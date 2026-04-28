@@ -661,12 +661,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "I don't think it was inevitable that politics would be his chosen career. But it was a decision he made on his own. And he formed, I think, a distinctive â how should I put it â political philosophy early on."
+              "text": "I don't think it was inevitable that politics would be his chosen career. But it was a decision he made on his own. And he formed, I think, a distinctive how should I put it? Political philosophy early on."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Fredrik Logevall"
+        }
+      ],
       "uuid": "ace69caa-27c4-48f4-8483-ec4901068481"
     },
     {
