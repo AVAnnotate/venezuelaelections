@@ -1612,12 +1612,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Well, I think thatâs a perfect spot for us to come on, Fred, Did you wanna make the last comment on that"
+              "text": "Well, I think that's a perfect spot for us to come on, Fred, Did you wanna make the last comment on that"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Jeremi Suri",
+          "category": "Speakers"
+        }
+      ],
       "uuid": "eb4d038d-c5e8-4ef6-bb94-4477b9e17c50"
     },
     {
