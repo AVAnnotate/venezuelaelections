@@ -1,5 +1,1414 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 5,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Democracy, a podcast that explores the interracial, intergenerational and intersectional unheard voices living in the world's most influential democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Origins of Democracy"
+        }
+      ],
+      "uuid": "91701120-4a86-404f-a5e6-33417c217046"
+    },
+    {
+      "start_time": 39,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What can we learn and what do we take away from John F. Kennedy's early career?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "92a50369-832e-4316-bc4b-2598df6e725b"
+    },
+    {
+      "start_time": 63,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm delighted to be with you"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "376be3f5-469d-47dc-80f1-8e7ab50eb7b2"
+    },
+    {
+      "start_time": 69,
+      "end_time": 100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Among my favorites and those which I know everyone has read, Choosing War, The Lost Chance for Peace and the Escalation of War in Vietnam, which really transformed our understanding of Lyndon Johnson's choices for war in 1964-65. America's Cold War, The Politics of Insecurity, which Fred co-wrote with Campbell Craig, another historian, which looks at the influence of domestic politics on American Cold War foreign policy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "9f8f2968-b4c1-48f4-aa5b-ec30972bd34d"
+    },
+    {
+      "start_time": 101,
+      "end_time": 128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Embers of War, The Fall of an Empire and the Making of America's Vietnam, which is really about early French and American activities in Vietnam before what we traditionally call the Vietnam War in the United States. Embers of War won the Pulitzer Prize as well as many other awards. And then his most recent book, which I hope all of our listeners will read and I know you'll be reading a lot about soon as well, JFK, Coming of Age in the American Century."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        }
+      ],
+      "uuid": "1e47431e-2958-4ad6-a90c-a377db9361eb"
+    },
+    {
+      "start_time": 128,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When Fred is not busy scribbling, he is the Lawrence D. Belfer Professor of International Affairs at the John F. Kennedy School of Government and Professor of History at Harvard University. And as I said, Fred is a longtime friend and really a major figure, not just in historical circles, but in scholarly and public intellectual circles in the United States. So before we turn to our discussion of JFK and this really fantastic and fun new book, I really found it fun to read this new book that Fred has just published."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "494cecb5-481f-4138-9e9f-a9327b549d7b"
+    },
+    {
+      "start_time": 161,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We're going to turn to Mr. Zachary, as we always do each week, for his scene-setting poem. Zachary, what's the title of your poem? The Ghost of JFK. Oh, I'm a little scared now."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c51f6394-e6f5-455f-b814-c407d89b25a3"
+    },
+    {
+      "start_time": 173,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let's hear about The Ghost of JFK. The ghost of JFK yielded its head today as I spoke with my teacher of memory. As I spoke with my teacher of memory, he told me of the fateful day when he was to see JFK on the aged steps of the Capitol."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "abd174b6-a0a7-4d14-963d-7957bc482cb7"
+    },
+    {
+      "start_time": 189,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On the aged steps of the Capitol, I stood on an afternoon in May and watched all the children play as we marched past to the Capitol door. As we marched past to the Capitol door, I thought of the man that day when he bled to death in a limousine and all hope went away."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        }
+      ],
+      "uuid": "7fdd07bd-0290-4c4d-afa4-a2cff707cdea"
+    },
+    {
+      "start_time": 218,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was youth that was killed from the book depository on the square in Dallas by the grassy hill. It was youth that was killed in Dallas and we're waiting again for it still."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Violence"
+        }
+      ],
+      "uuid": "0e121e0e-378e-4548-bd64-eee84ab1cc8b"
+    },
+    {
+      "start_time": 236,
+      "end_time": 260,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My poem is really about trying to ask what made JFK such a symbolic figure in American history and what made him so important in the memory of his generation, even only having served a few years as president."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "ef7163ec-0a8f-4d27-93a3-0b04557b17e3"
+    },
+    {
+      "start_time": 260,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that is the perfect spot to turn to President Kennedy's biographer. Fred, we live in such a cynical age. Your book, as I read it, is in some ways a wonderful antidote to that cynicism. I think the place to start is why did John F. Kennedy, this person born to such privilege, such wealth, why did he get involved in the dirty world of politics? Well, let me just say, Jeremy, that that was a wonderful poem we just heard. That was just marvelous."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        }
+      ],
+      "uuid": "c1146207-0268-4b52-af24-3b2b405d166c"
+    },
+    {
+      "start_time": 283,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So hats off to you, Zachary. I'd love to hear more of your stuff. Maybe I will."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c72c2767-2589-4dd4-951d-c197a7bec46f"
+    },
+    {
+      "start_time": 288,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, each week, each week, he opens every poem, every episode, Fred. Oh, fantastic."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "22d04601-2de0-43af-ac94-a9c6056a0ab8"
+    },
+    {
+      "start_time": 298,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, I think it comes for Jack Kennedy from, in part, a bedridden childhood. He was sick a lot as a kid and read, became a voracious reader and his preferred genre or the things he liked to read about were, in fact, politics, especially European politics, diplomacy, statecraft, tales of adventure and chivalry. He was drawn to that stuff."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "5d34cc3c-84f4-4114-9758-7570518e8362"
+    },
+    {
+      "start_time": 344,
+      "end_time": 360,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So he took something, I think, from Honey Fitz, even though they became very different kinds of politicians. JFK was much more sort of reserved and much more urbane as a political figure."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "47b659d5-090f-4db4-a9d0-f22d7f432f6f"
+    },
+    {
+      "start_time": 361,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It developed in college, his wartime service, which we could discuss. But you do see these early influences as well."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "401da9d4-4b80-45be-a738-2e753fba9bba"
+    },
+    {
+      "start_time": 373,
+      "end_time": 386,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, and let's turn to his wartime service. Much of your book actually covers that. And I have to say, it's a really riveting part of the book and an area where I think you have a lot of new, many new things to say about both his wartime service and his travels."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "331ccd7b-3781-4cc3-a08a-8354a1e9fd34"
+    },
+    {
+      "start_time": 387,
+      "end_time": 399,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was really taken with the many quotations you have from his travel diary, Fred. So tell us more about how the travels and the World War II experience contributed to his development as a political animal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "5b2d3607-573d-4bf6-874d-c0e2d09eb9e7"
+    },
+    {
+      "start_time": 399,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, one of the things that I suggest in the book is that he developed both a historical sensibility, but also an international sensibility. And here again, I think Rose, who often doesn't get enough credit, it seems to me, in the scholarship, his mother encouraged him to have this wider lens, to look to the outside world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "a64403c4-b5bc-4f7e-a63b-f4b5c2dca850"
+    },
+    {
+      "start_time": 427,
+      "end_time": 458,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And as you say, he traveled, beginning in a serious way in 1937 with his good friend Len Billings during college. They traveled through Europe and then there was a major excursion, which I think is really consequential in 1939, right on the eve of war, where young JFK is traveling in about a dozen countries, meeting with officials, seeing the sites."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "c5eb2525-2a5c-412c-b8fe-d80bb151d442"
+    },
+    {
+      "start_time": 482,
+      "end_time": 496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think it is probably like it was for many people who were in combat. It was, I think, a profound, had a profound effect on Kennedy. Made him, in two different ways."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "5b4ad78a-dd65-403a-85a6-9afaee5e63de"
+    },
+    {
+      "start_time": 497,
+      "end_time": 527,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The first was that it made him, I think, wary of the military instrument as a means of solving political problems that I think he had, and I trace this in the book. He continued to have this really for the remainder of his life. But secondly, I think he came out of the war convinced that the United States had to play a major leadership role on the global stage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "6d2e87d9-41fb-4ceb-9997-f11281c8eca5"
+    },
+    {
+      "start_time": 527,
+      "end_time": 562,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's in some ways almost a kind of contradictory, or they don't, the two attributes, the two conclusions don't necessarily mesh perfectly, but I think it's partly what he took from the war, no question. And it's worth underlining the fact, and this is a point you make, that really most of the leadership of American society for the next 50 years would have come out of this experience of World War II."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "3a44725d-559c-4176-adfe-ecce07423d18"
+    },
+    {
+      "start_time": 600,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I do think that JFK believed strongly that he himself had a role to play. And he, by the way, I think made his own decisions to seek political office in the early aftermath of the war."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        }
+      ],
+      "uuid": "a0180ea9-7b4d-46af-a52a-058935e57eac"
+    },
+    {
+      "start_time": 625,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "JFK was really his own master when it came to his political decisions and his career decisions. But I think he felt that this wartime generation of which he was a part would now, in the aftermath of the war, in the late 40s and beyond, have a very important role to play."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "6aa82a5a-0862-42cf-a824-7f206acf05b0"
+    },
+    {
+      "start_time": 648,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think it was inevitable that politics would be his chosen career. But it was a decision he made on his own. And he formed, I think, a distinctive â how should I put it â political philosophy early on."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ace69caa-27c4-48f4-8483-ec4901068481"
+    },
+    {
+      "start_time": 665,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was a kind of pluralist, liberal outlook, which was idealistic in some respects, but also leavened with a certain pragmatic realism that I think proved to be a winning one for him, if I can put it that way. I think this is really one of the stunning parts of your book, Fred."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "f975665e-a61e-40d5-971d-1f24f9fc81f3"
+    },
+    {
+      "start_time": 695,
+      "end_time": 708,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I hear we've gone almost 10 minutes into this discussion. It's the first time Joseph Kennedy has come up. What can you tell us about that relationship between father and son?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3c7ad442-eb48-42d0-8436-63a94c6cde52"
+    },
+    {
+      "start_time": 708,
+      "end_time": 755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think previous authors have been absolutely correct to talk about the fact that Joe Kennedy was a giant figure in the lives of his children, including young Jack. He was a towering father figure, no question. But yeah, I think it was striking to me in the research, Jeremy, in the voluminous letters that we have and other documents that we have in the oral histories, etc., the degree to which the second son, Jack, was willing to separate himself from his father in a way that the golden child, the oldest son, Joe Jr., who was killed in the war in 1944, was never able to do, never willing to do."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f67c4719-b448-4e04-a2b5-62a9d551a0e2"
+    },
+    {
+      "start_time": 756,
+      "end_time": 807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so the most dramatic example of this, I think, is the, in effect, the split between the father and the son, between Joe Sr. and Jack on the issue of U.S. intervention, on the issue of, if you want to put it this way, isolationism versus interventionism, where Joe Sr., as ambassador to Britain, and then long after having been ambassador to Britain, was a kind of unvarnished, was an unapologetic appeaser and isolationist. And Jack decided he could not be. And I think this is where the Harvard years are especially illuminating, because you see that gradually, clearly, but gradually, but clearly, this shift away from the father's position."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Structural Drivers of Conflict"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        }
+      ],
+      "uuid": "55530883-8d92-409f-a6ca-bfb8d494be95"
+    },
+    {
+      "start_time": 807,
+      "end_time": 839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Really interesting. And let's talk a little bit about JFK's distinctiveness from his father, his critique of appeasement, his critique of the isolationism, and even somewhat pro-Nazi tendencies of his father. How would you characterize his emerging, shall we say, Cold War viewpoint?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Authoritarianism"
+        }
+      ],
+      "uuid": "9169c232-6582-469b-9f71-8b3d3ead67e6"
+    },
+    {
+      "start_time": 839,
+      "end_time": 893,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was surprised to learn of the degree to which isolationism, if we want to use that term, excuse me, the degree to which isolationism really held pretty firmly, pretty firm within the student body at Harvard. But the professors, his own reading, I think his travels that we've discussed, all of them, I think, convinced JFK by, let's say, by late 1940, or by the middle part of 1940, around the time that he completes his thesis, publishes the book, that it's really an untenable position that his father holds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Universities"
+        },
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "822e2905-300c-4fb9-899c-887b2aa4d09f"
+    },
+    {
+      "start_time": 893,
+      "end_time": 920,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It certainly has to support the British and the French to a very large extent. And therefore, his father's position, which is that you can have a kind of fortress America in which the country more or less seals itself off from the rest of the world, just is not going to fly. And he is willing, as I've said, in a way, Joe Jr. is not, to actually confront his father with this position."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "4decbed6-45d6-4057-8ceb-6a074f054196"
+    },
+    {
+      "start_time": 922,
+      "end_time": 951,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's fascinating to me, Fred, how that lesson for John F. Kennedy and so many others, and this is something many of us have written about you in particular, how those lessons of appeasement carry forward. And of course, one of the things both you and I teach and write about are the dangers of an analogy from one historical time being brought into another context."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "93044ef6-6714-4890-ae2c-7ea0662f182f"
+    },
+    {
+      "start_time": 951,
+      "end_time": 985,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you say more about what Kennedy takes from what you just described so well, his emerging internationalist outlook? You called it earlier a liberal internationalist outlook to some extent, tempered with realism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "ea729b1a-179f-4925-abcf-334135ce76f5"
+    },
+    {
+      "start_time": 986,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He is. And here, the difference between the father is, again, pretty interesting, because Joe Kennedy articulates positions that at least some historians would later come to hold."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "26c28a31-dbdd-4c85-af72-5286f1bff45a"
+    },
+    {
+      "start_time": 1014,
+      "end_time": 1030,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jack, I think, is very much committed to what Truman is trying to do in 46 and 47. He endorses the Truman Doctrine. He is wholly supportive of a kind of expansive American global posture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "59022343-716e-4c4d-9d40-26ac7bd92b4a"
+    },
+    {
+      "start_time": 1031,
+      "end_time": 1087,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But alongside this, emerging, I think, in 1950, 51, and thereafter, is also a nuanced understanding of the power of decolonization, the power of nationalism in the developing world. And he argues, I think, quite presciently, when he visits Indochina in 1951, for example, but also other parts of Asia, that the United States, if it wants to be on the right side of history, and if it wants to succeed in the broader superpower struggle, needs to be attentive to what these voices are clamoring for, and including people like Ho Chi Minh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Political Grievances"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
+        }
+      ],
+      "uuid": "cf0ee2fb-0b44-4c14-8b0b-ca21064916bd"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So this is still sort of preliminary. But that tension, in some ways, exists right through to the end. He argues in his inaugural address for a...we often think of that address as being a kind of Cold War call to arms, but I don't think it really is."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Warfare and Society"
+        }
+      ],
+      "uuid": "a68caedc-606b-4bc7-b5c5-0abb7ae53e0c"
+    },
+    {
+      "start_time": 1107,
+      "end_time": 1125,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you look at the address in its entirety, it's really quite conciliatory in tone. And he says, we shall never, let us never fear to negotiate. So it's a complex picture, Jeremy, but one that I think, I hope in the second volume to further flesh out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "72e472ba-992a-4485-b0c3-456542ea4b2a"
+    },
+    {
+      "start_time": 1126,
+      "end_time": 1167,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What makes JFK such an appealing presidential candidate, but also a congressman and a legislature? What can we learn from his rise about what kind of politician we should be nurturing today? Oh, it's such a good question. I think that what people saw right away, maybe even in that first congressional campaign in 1946, and I do think this holds something for us today, is they saw somebody who believed in politics, loved politics even."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "8b0a4ac9-4146-4e62-a64c-aa88cf4e8491"
+    },
+    {
+      "start_time": 1168,
+      "end_time": 1210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one of the reasons he loved politics from an early point was precisely because he believed that it was important that in a democracy, what we expect, what we demand of our elected officials can have a hugely important effect on our lives. And I think he believed and developed a philosophy, which basically said that government can't solve all of our problems, but it has a vital role to play in creating a more just and a more equitable society."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Human Rights"
+        },
+        {
+          "category": "Social and Economic Forces",
+          "tag": "Inequality"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "e2fe0c9f-7a7a-4a74-aea6-99c6f9754e36"
+    },
+    {
+      "start_time": 1211,
+      "end_time": 1253,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In fact, I think I show that you see it again in this first campaign, and that is the vital importance in a democracy of compromise, of reasoning from evidence, of seeing political opponents as adversaries rather than enemies. This is something that I think he stressed, and I think it's a very important notion for us today."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "cf932def-142e-4f17-907c-ed65ce46b220"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And boy, is that hard today in this country. But I think it's a more important message than ever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        }
+      ],
+      "uuid": "e9594724-5ac1-4a2d-b945-78552227ff35"
+    },
+    {
+      "start_time": 1267,
+      "end_time": 1307,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Over more than 100 episodes, we've seen, I think, in such a range of figures, how important those precise qualities that you just highlighted so brilliantly, that those qualities of compromise and attention to evidence and deliberative policymaking, how crucial they are to a democracy. How did Lyndon Johnson interact with John F. Kennedy? Because one of the issues that comes up quite often in some of our prior discussions and in a lot of the scholarship, as you know better than anyone, is this rivalry between Lyndon Johnson and the Kennedy family."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Checks and Balances"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "28873fb8-adc0-49a1-a3e8-b9e34679264e"
+    },
+    {
+      "start_time": 1307,
+      "end_time": 1330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How did JFK handle that differently from politicians today, and what can we learn from that? Well, I mean, you know, I'd say in some respects, I guess, a preliminary answer, Jeremy, because this is one of the things that I really want to delve into and will need to delve into in volume two."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6eb501ba-6084-42a2-9735-cbd224d88e30"
+    },
+    {
+      "start_time": 1330,
+      "end_time": 1363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One is that Kennedy respected LBJ's unsurpassed skill at maneuvering in Washington, his ability to buttonhole lawmakers and to get them to do what he needed them to do. This is evident even when he's obviously the chieftain in the Senate. And I think Kennedy rightly marvels at this ability and respects Johnson for it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Checks and Balances"
+        }
+      ],
+      "uuid": "ed0eb096-605c-44b9-87e3-0546789f1bcf"
+    },
+    {
+      "start_time": 1363,
+      "end_time": 1403,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One of the things that one of the appealing aspects of John F. Kennedy is I think he respects people who are really good at what they do, regardless of field. He could see this in Johnson. On the other hand, you know, it's clear that when he becomes vice president, and arguably has an important role to play in securing this razor thin victory against Nixon in the election in 1960, you know, he and his team, they don't treat Lyndon Johnson very well in terms of his role as vice president, the kinds of duties that they give him, the degree to which they include him on important policy decisions, especially in foreign affairs."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        },
+        {
+          "category": "Governance, Law and Political Structures",
+          "tag": "Checks and Balances"
+        }
+      ],
+      "uuid": "e21a8b40-2f16-4635-91d7-8933a74ea38a"
+    },
+    {
+      "start_time": 1405,
+      "end_time": 1424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can see, one can see why LBJ becomes resentful. There's, of course, a special friction with Robert Kennedy, which, of course, I also need to delve into as I get into this research."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "57124960-1426-42a0-9499-af49edc44066"
+    },
+    {
+      "start_time": 1424,
+      "end_time": 1450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think he does credit him with helping him win. Arguably, this was one instance in recent US history in which the vice presidential choice actually did matter in the outcome, but then a problematic relationship thereafter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Voting and Elections"
+        }
+      ],
+      "uuid": "7ab390ff-94dc-44b4-b7ea-5d85f4e93442"
+    },
+    {
+      "start_time": 1450,
+      "end_time": 1493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want us to close as we always do by looking toward our listeners today, particularly young listeners, and what they can take away from your book in this fraught political moment we're in today. But before I do that, Fred, I can't let us get to that concluding point without asking the question I know everyone is going to ask you. What should we make of Kennedy's extramarital affairs that you discuss a bit in the book and the question of morality and political leadership?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d1eb1719-e7fa-4b38-bec8-ae6296cc65d3"
+    },
+    {
+      "start_time": 1493,
+      "end_time": 1528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How does that affect your judgment of him as an early politician? Yeah, it's something obviously that I grapple with a lot, Jeremy, and I will continue to grapple with as I work on volume two, because one of the things that I conclude is that he shows a capacity for empathy, empathetic understanding, which I think is critical in a leader. And we see it maybe most notably at the time of the Cuban Missile Crisis, where he's actually able to put himself into Khrushchev's shoes, which is what empathy is, to be able to see things from the other side."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Conflict, Power and International Relations",
+          "tag": "Diplomacy and Peacebuilding"
+        }
+      ],
+      "uuid": "9d0c3582-a5e6-4ed0-b57b-779bac6b5874"
+    },
+    {
+      "start_time": 1539,
+      "end_time": 1574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And if I'm going to argue, as I do in the book, that he is his own man when it comes to politics, that he's not under his father's control, that he's willing to separate himself from Joe Sr., then I can't very well say, well, you know, he became a chronic womanizer because his father was, and it's because of the example that his father set. And his father certainly did set an example. He said, in so many words, that he expected Joe Jr. and Jack to follow in his footsteps, to view women as objects to be conquered."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "67ca5faf-3723-4292-b272-4d862ea8f6a3"
+    },
+    {
+      "start_time": 1575,
+      "end_time": 1601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I can't, you know, give him credit for his independence in one area and say that he didn't have it in the other. So it's a really good point. And this is one that, especially as I think, as I get into volume two, and he becomes in a strong power position, which makes this still more problematic, I have to reckon with."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "903199be-ca38-405b-b7dd-e9e1cd213dea"
+    },
+    {
+      "start_time": 1602,
+      "end_time": 1625,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It strikes me that you're approaching it exactly as you should as a historian, which is different from a journalist in this element, insofar as his personal behavior matters to us, it seems to me, as it relates to his role as a politician. Your book is Young JFK, his own man, but politician."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64bbe778-f228-412c-859c-8e137d0025d5"
+    },
+    {
+      "start_time": 1626,
+      "end_time": 1638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And so, you know, if people are interested in the lurid details of his affairs, that's not what you're writing about. You are writing about how those affected him as an individual insofar as he becomes a politician."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "191adb50-d4aa-44bd-9cd6-869278925f0e"
+    },
+    {
+      "start_time": 1638,
+      "end_time": 1667,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it's actually refreshing in a certain way without in any way diminishing the enormity of this issue, as you just pointed out so well. So, Fred, we like to finish every one of our episodes by really, really speaking directly to our audience, which includes a lot of young people, and I'll include you and I as still young people, who are concerned about our world today, concerned about democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8fae77e2-a450-48a4-966f-747d79488c83"
+    },
+    {
+      "start_time": 1667,
+      "end_time": 1691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We do it every week because we're trying to bring historical knowledge and at least maybe some historical inspiration to thinking about reforming and improving our democracy in a nonpartisan way."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "cfe09e3d-d62e-4e12-8c0d-eae0c587594a"
+    },
+    {
+      "start_time": 1692,
+      "end_time": 1725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You've spent a good part of your life now writing about John F. Kennedy. You're going to continue doing that. What do you want young people, people who are concerned about our politics today, people who want to change our politics today, what do you want them to take away from the work you've done and from this wonderful volume?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        },
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "ff082158-4a81-43eb-812f-802eee403c22"
+    },
+    {
+      "start_time": 1726,
+      "end_time": 1750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That may be kind of an impossible thing to believe, given how corrosively cynical we have become. But I think it's absolutely true. I think it's something that John F. Kennedy really based his political career on, this idea that it is absolutely vital that we have a strong, functioning democracy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Development"
+        }
+      ],
+      "uuid": "9f24c258-46c9-438e-bdfe-6dde160ecda6"
+    },
+    {
+      "start_time": 1751,
+      "end_time": 1780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And he says in one of his college papers, this is when he's 20 years old, and I'm paraphrasing that in effect, unless democracy can produce capable leaders, it is in serious trouble. And I think that's true."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Origins, Development and Historical Change",
+          "tag": "Democratic Risks and Threats"
+        }
+      ],
+      "uuid": "c6cdc4f5-ff5e-4229-a5a5-200f7b580c4e"
+    },
+    {
+      "start_time": 1781,
+      "end_time": 1828,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think it's important for young people in particular to grasp that, to understand that if they become involved in public life, maybe choose even a career in public service, they can make a difference, that democracy in some ways hinges on this democracy hinges on having a well informed citizenry paying attention to the issues and at least to some degree but getting involved in those issues. I think that, too, is a message that JFK flawed figure in many ways somebody who had both successes and missteps as a politician. But this is something I think he both believed and he lived."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Civic Participation"
+        }
+      ],
+      "uuid": "b079beee-8d20-4881-b36c-5b50bf3fba34"
+    },
+    {
+      "start_time": 1829,
+      "end_time": 1854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So Zachary, your wonderful poem this morning was the ghost of JFK. And one of the early reviewers of Fredâs book mutual friend of Ours, David Kennedy talks about how how John F. Kennedy still beguiles us and that in some ways Fredâs book is a wonderful analysis of that Zachary Does John F. Kennedy still inspire young people like yourself? And what inspiration do you take from this? And from our conversation with Fred?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f8cd9df5-b3e3-421f-b422-eaeb1b48673b"
+    },
+    {
+      "start_time": 1855,
+      "end_time": 1891,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that John F. Kennedy is still universally, universally powerful to young people because of his youth and because of what he represents as a someone who believes he can use government to help people. I always find it very interesting whenever I ask people who their favorite presidents are. John F. Kennedy is always near the top of the list, which, which is very interesting, seeing that he only served for a couple years. And so I think that his his short time the forefront of American politics continues to inspire young people and will continue to inspire young people."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "28f0b2e0-911b-4544-83f0-d67d38398d6c"
+    },
+    {
+      "start_time": 1892,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think thatâs a perfect spot for us to come on, Fred, Did you wanna make the last comment on that"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eb4d038d-c5e8-4ef6-bb94-4477b9e17c50"
+    },
+    {
+      "start_time": 1898,
+      "end_time": 1944,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I just want to say that Zachary, thatâs really well put on if you know, as the saying goes, from your lips to Godâs ears. I think that if this is indeed what especially the people of your generation and they say the generation above the young people, if they can see in JFK and in other politicians of both parties in this country, um, somebody to somebody to look to, to try to emulate in some way and, more importantly, just to become involved and become informed and engaged and and and and commit oneself to good faith, reasoning and bargaining, I think weâll be fine."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b23df497-5ec5-4cfb-b156-745dc3652964"
+    },
+    {
+      "start_time": 1944,
+      "end_time": 2014,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thatâs so well said. And I think what your book displays really in wonderful ways in entertaining ways to Fred is that we have that capacity within us. Itâs itâs John F. Kennedy is his own man. But John F. Kennedy as such a quintessential product of American society, product of the mixing of different groups and our politics, which produces this messiness but also this capacity for compromise and evidence based creativity. So, Fred, thank you for joining us today. I know youâre very busy out and around, or at least virtually on your book tour. Thank you for stopping. Stopping in with us virtually. I hope all of our readers and listeners will read, uh, Fredâs exciting new book, John F. Kennedy. Itâs available, Um, on Amazon. Itâs available at all of your local independent bookstores. Just look up logo ball JFK, and it will come right up. Zachary, Thank you, as always for your poem and most of all, thank you to our listeners for joining us for this episode of This Is Democracy"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7c20347c-56da-495b-ba18-e4cfd3d8fc48"
+    },
+    {
+      "start_time": 2014,
+      "end_time": 2040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This podcast is produced by the Liberal Arts Development Studio and the College of Liberal Arts at the University of Texas at Austin. Theme music in this episode was written and recorded by Harrison Lemke, and you can find his music at harrisonlemke.com. Subscribe and stay tuned for a new episode every Thursday, featuring new perspectives on democracy. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4b797c7f-2a01-4fbe-8eea-aa3b13b85df7"
+    }
+  ],
   "set": "Default",
   "event_id": "bbdb347b-d0ab-47db-9c12-87ddc24f5959",
   "source_id": "0ce74b82-ac27-4c8c-b7db-d9c57a6f2e3c"
