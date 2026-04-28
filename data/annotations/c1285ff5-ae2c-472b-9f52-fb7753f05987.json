@@ -112,12 +112,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": " Thanks so much, Jeremy. It's wonderful to be here.Before we turn to our discussion with Mark, of course, we have Zachary's scene-setting poem."
+              "text": " Thanks so much, Jeremi. It's wonderful to be here.Before we turn to our discussion with Mark, of course, we have Zachary's scene-setting poem."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Speakers",
+          "tag": "Mark Lawrence"
+        }
+      ],
       "uuid": "4d045728-9dcb-4fe1-8da1-018d15b81e4c"
     },
     {
