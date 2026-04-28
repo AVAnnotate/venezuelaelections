@@ -15,16 +15,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Citizenship & Belonging"
-        },
-        {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
         },
         {
           "tag": "Intro",
           "category": "Framing Elements"
+        },
+        {
+          "category": "Rights, Membership and Public Participation",
+          "tag": "Citizenship and Belonging"
         }
       ],
       "uuid": "6c8bb842-f6a0-4dcd-800b-5054bce32dc5"
