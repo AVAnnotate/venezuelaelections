@@ -2,7 +2,7 @@
   "annotations": [
     {
       "start_time": 5,
-      "end_time": 38,
+      "end_time": 19,
       "annotation": [
         {
           "type": "paragraph",
@@ -13,12 +13,7 @@
           ]
         }
       ],
-      "tags": [
-        {
-          "category": "Origins, Development and Historical Change",
-          "tag": "Origins of Democracy"
-        }
-      ],
+      "tags": [],
       "uuid": "91701120-4a86-404f-a5e6-33417c217046"
     },
     {
