@@ -1585,7 +1585,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Uh, do you see, uh, lessons for your generation? In this story. I certainly do. I think one of the lessons is that these issues are always complex and never just black and white, never easy or impossible. And I think part of the problem, uh, and, uh, I think particularly among young people is that foreign policy issues can seem so black and white and, and, and, and, and so easy, but theyâre, theyâre, theyâre so complex."
+              "text": "Uh, do you see, uh, lessons for your generation? In this story. I certainly do. I think one of the lessons is that these issues are always complex and never just black and white, never easy or impossible. And I think part of the problem, uh, and, uh, I think particularly among young people is that foreign policy issues can seem so black and white and, and, and, and, and so easy, but they're, they're, they're so complex."
             }
           ]
         }
@@ -1598,6 +1598,10 @@
         {
           "category": "Rights, Membership and Public Participation",
           "tag": "Civic Participation"
+        },
+        {
+          "tag": "Zachary Suri",
+          "category": "Speakers"
         }
       ],
       "uuid": "a11a7508-d451-4caa-8fe0-2e61e36d0c3d"
